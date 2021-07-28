@@ -20,7 +20,6 @@ $array = $query->fetch(PDO::FETCH_ASSOC);
     <link rel="stylesheet" href="./libs/css/bootstrap-grid.min.css">
     <link href="libs/css/font-awesome.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
-    <link rel="stylesheet" href="./libs/css/lightbox.min.css">
     <link rel="stylesheet" href="css/style.min.css">
     
 <!-- Facebook Pixel Code -->
@@ -134,9 +133,6 @@ $array = $query->fetch(PDO::FETCH_ASSOC);
 
 
     <script src="libs/js/jquery.min.js"></script>
-    <script src="libs/js/lightbox.min.js"></script>
-    <script src="libs/js/jquery.waypoints.min.js"></script>
-    <script src="libs/js/jquery.counterup.min.js"></script>
     <script src="libs/js/jquery.maskedinput.min.js"></script>
     <script src="js/script.js"></script>
 </body>
